@@ -10,10 +10,6 @@ jobs:
       - name: Checkout Codigo
         uses: actions/checkout@v4
 
-  steps:
-      - name: Checkout Codigo
-        uses: actions/checkout@v4
-
       - name: Copy files via SCP
         uses: appleboy/scp-action@v1
         with:

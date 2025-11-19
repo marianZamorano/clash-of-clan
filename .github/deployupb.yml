@@ -1,4 +1,4 @@
-name: UPB Desplegando a un EC
+name: UPB EC2
 on:
   push:
     branches:
